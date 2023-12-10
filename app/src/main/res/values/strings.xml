@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherApp_Bable</string>
+    <string name="no_weather">Pas de données</string>
+    <string name="confirm">Confirmer</string>
+    <string name="input">Taper votre Pays</string>
+    <string name="add_country">Ajouter un Pays</string>
+    <string name="remove_country">Supprimer un Pays</string>
+    <string name="cancel">Annuler</string>
+    <string name="hint_country_text">Taper la nouvelle pays</string>
+    <string name="popupMsg">"Veuillez ajouter un pays "</string>
+    <string name="added_country">Pay ajouté</string>
+    <string name="added_country_exist">Pays déja existant</string>
+    <string name="connection_error">Internet est indisponible</string>
+    <string name="country_error">Pays inexistant</string>
+    <string name="country_not_found">Pays inexistant</string>
+    <string name="removed_country">Supprimé avec succes</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WeatherApp_Bable" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+    </style>
+    <style name="Theme.WeatherApp_Bable" parent="Base.Theme.WeatherApp_Bable" />
+</resources>
